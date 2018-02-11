@@ -5,8 +5,11 @@ This is a simple machine learning model I made which predicts the prices of real
 It makes use of the random forest model to predict prices. I have included the datasets which are needed to train the model and validate it later.
 
 submission_file.csv - my final predictions file
+
 train.csv - dataset to train or fit the model
+
 test.csv - dataset to test the model and predict the prices
+
 main.py - the python program file 
 
 Data sources - www.kaggle.com
